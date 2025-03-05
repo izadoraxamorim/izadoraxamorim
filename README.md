@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript, CSS, HTML, MySQL and Git. 
 - 📫 You can follow me on instagram @izadoraamorim_.
 
-- [![Izadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=izadoraxamorim)](https://github.com/izadoraxamorim/github-readme-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izadoraxamorim&layout=compact)](https://github.com/izadoraxamorim/github-readme-stats)
 
 
